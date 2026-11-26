@@ -1,0 +1,82 @@
+{
+ "previous_runs": {
+  "seconds": 4.6,
+  "http_requests": 1,
+  "n_days": 1061,
+  "counted_calls_per_docs": 378.92857142857144,
+  "cities": {
+   "Boston": {
+    "rows": 25464,
+    "day1_nonnull": 25020,
+    "day1_first": "2024-01-19 12:00:00",
+    "day1_last": "2026-11-26 23:00:00",
+    "day1_null_pct": 1.74,
+    "mae_day1_vs_day0_C": 1.33,
+    "grid_lat": 42.365166,
+    "grid_lon": -71.0618
+   },
+   "Hartford": {
+    "rows": 25464,
+    "day1_nonnull": 25020,
+    "day1_first": "2024-01-19 12:00:00",
+    "day1_last": "2026-11-26 23:00:00",
+    "day1_null_pct": 1.74,
+    "mae_day1_vs_day0_C": 1.42,
+    "grid_lat": 41.758698,
+    "grid_lon": -72.69092
+   },
+   "Providence": {
+    "rows": 25464,
+    "day1_nonnull": 25020,
+    "day1_first": "2024-01-19 12:00:00",
+    "day1_last": "2026-11-26 23:00:00",
+    "day1_null_pct": 1.74,
+    "mae_day1_vs_day0_C": 1.25,
+    "grid_lat": 41.82707,
+    "grid_lon": -71.42573
+   },
+   "Portland ME": {
+    "rows": 25464,
+    "day1_nonnull": 25020,
+    "day1_first": "2024-01-19 12:00:00",
+    "day1_last": "2026-11-26 23:00:00",
+    "day1_null_pct": 1.74,
+    "mae_day1_vs_day0_C": 1.25,
+    "grid_lat": 43.650455,
+    "grid_lon": -70.26549
+   },
+   "Burlington VT": {
+    "rows": 25464,
+    "day1_nonnull": 25020,
+    "day1_first": "2024-01-19 12:00:00",
+    "day1_last": "2026-11-26 23:00:00",
+    "day1_null_pct": 1.74,
+    "mae_day1_vs_day0_C": 1.34,
+    "grid_lat": 44.480133,
+    "grid_lon": -73.199425
+   }
+  }
+ },
+ "historical_3d": {
+  "seconds": 0.5,
+  "http_requests": 1,
+  "range": [
+   "2026-11-18",
+   "2026-11-20"
+  ],
+  "counted_calls_per_docs": 5,
+  "rows_total": 360,
+  "nulls": "0"
+ },
+ "previous_runs_3d": {
+  "seconds": 0.5,
+  "counted_calls_per_docs": 5,
+  "mae_day1_forecast_vs_archive_C": [
+   1.52,
+   1.28,
+   1.66,
+   1.22,
+   1.08
+  ]
+ }
+}

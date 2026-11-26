@@ -1,0 +1,24 @@
+name: df-poll
+on:
+  schedule: [{ cron: "7 * * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: df-poll, cancel-in-progress: false }
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: src }
+      - uses: actions/checkout@v4
+        with: { ref: df-poll, path: poll }
+      - name: Snapshot DF
+        env: { EIA_API_KEY: "${{ secrets.EIA_API_KEY }}" }
+        run: |
+          echo "{\"run_id\": \"${{ github.run_id }}\", \"event\": \"${{ github.event_name }}\", \"started_utc\": \"$(date -u +%FT%TZ)\"}" >> poll/runs.jsonl
+          python3 src/scripts/s4_df_poll.py poll/snapshots
+      - name: Commit
+        run: |
+          cd poll && git config user.name df-poll-bot && git config user.email actions@users.noreply.github.com
+          git add -A && git commit -qm "df snapshot $(date -u +%FT%TZ)" && for i in 1 2 3; do git push && break || (git pull --rebase -q && sleep 5); done

@@ -1,0 +1,21 @@
+name: spike-pull
+on: workflow_dispatch
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Runner specs
+        run: |
+          echo "image=$ImageOS $ImageVersion"; nproc; free -h; df -h / | tail -1
+          lscpu | grep -E "Model name|^CPU\(s\)"; cat /etc/os-release | grep PRETTY; python3 --version
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip, cache-dependency-path: .github/workflows/spike-pull.yml }
+      - name: Install
+        run: pip install -q pandas pyarrow requests
+      - name: Pull
+        env: { EIA_API_KEY: "${{ secrets.EIA_API_KEY }}" }
+        run: python scripts/s7_gha_pull.py
+      - uses: actions/upload-artifact@v4
+        with: { name: "spike-${{ github.run_id }}", path: artifact/, retention-days: 7 }

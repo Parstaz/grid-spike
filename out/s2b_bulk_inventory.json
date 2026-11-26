@@ -1,0 +1,387 @@
+{
+ "files": [
+  {
+   "file": "EIA930_BALANCE_2015_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 30.973894,
+   "last_modified": "Thu, 26 Nov 2026 15:39:37 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2016_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 30.566131,
+   "last_modified": "Thu, 26 Nov 2026 15:39:42 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2016_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 30.992986,
+   "last_modified": "Thu, 26 Nov 2026 15:39:47 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2017_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 30.41651,
+   "last_modified": "Thu, 26 Nov 2026 15:39:52 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2017_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 31.018149,
+   "last_modified": "Thu, 26 Nov 2026 15:39:56 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2018_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 30.287937,
+   "last_modified": "Thu, 26 Nov 2026 15:40:01 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2018_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 44.213835,
+   "last_modified": "Thu, 26 Nov 2026 15:40:07 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2019_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 43.369791,
+   "last_modified": "Thu, 26 Nov 2026 15:40:13 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2019_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 44.134576,
+   "last_modified": "Thu, 26 Nov 2026 15:40:19 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2020_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 42.970027,
+   "last_modified": "Thu, 26 Nov 2026 15:40:25 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2020_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 43.63574,
+   "last_modified": "Thu, 26 Nov 2026 15:40:31 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2021_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 43.073764,
+   "last_modified": "Thu, 26 Nov 2026 15:40:37 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2021_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 43.438192,
+   "last_modified": "Thu, 26 Nov 2026 15:40:43 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2022_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 42.567904,
+   "last_modified": "Thu, 26 Nov 2026 15:40:49 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2022_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 42.909865,
+   "last_modified": "Thu, 26 Nov 2026 15:40:55 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2023_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 41.981693,
+   "last_modified": "Thu, 26 Nov 2026 15:41:01 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2023_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 42.574041,
+   "last_modified": "Thu, 26 Nov 2026 15:41:07 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2024_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 41.742812,
+   "last_modified": "Thu, 26 Nov 2026 15:41:13 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2024_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 47.928993,
+   "last_modified": "Thu, 26 Nov 2026 15:41:19 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2025_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 47.565054,
+   "last_modified": "Thu, 26 Nov 2026 15:41:25 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2025_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 48.256021,
+   "last_modified": "Thu, 26 Nov 2026 15:41:32 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2026_Jan_Jun.csv",
+   "kind": "BALANCE",
+   "MB": 0.0,
+   "last_modified": "Thu, 26 Nov 2026 15:41:38 GMT"
+  },
+  {
+   "file": "EIA930_BALANCE_2026_Jul_Dec.csv",
+   "kind": "BALANCE",
+   "MB": 38.909525,
+   "last_modified": "Thu, 26 Nov 2026 15:41:44 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2015_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 109.400634,
+   "last_modified": "Thu, 26 Nov 2026 15:39:38 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2016_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 106.48571,
+   "last_modified": "Thu, 26 Nov 2026 15:39:43 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2016_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 107.935196,
+   "last_modified": "Thu, 26 Nov 2026 15:39:48 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2017_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 106.333816,
+   "last_modified": "Thu, 26 Nov 2026 15:39:52 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2017_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 108.220914,
+   "last_modified": "Thu, 26 Nov 2026 15:39:57 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2018_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 106.129162,
+   "last_modified": "Thu, 26 Nov 2026 15:40:02 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2018_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 107.690068,
+   "last_modified": "Thu, 26 Nov 2026 15:40:08 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2019_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 105.264288,
+   "last_modified": "Thu, 26 Nov 2026 15:40:14 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2019_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 107.42995,
+   "last_modified": "Thu, 26 Nov 2026 15:40:20 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2020_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 104.361259,
+   "last_modified": "Thu, 26 Nov 2026 15:40:26 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2020_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 105.37081,
+   "last_modified": "Thu, 26 Nov 2026 15:40:32 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2021_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 104.312638,
+   "last_modified": "Thu, 26 Nov 2026 15:40:38 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2021_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 105.219251,
+   "last_modified": "Thu, 26 Nov 2026 15:40:44 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2022_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 103.016694,
+   "last_modified": "Thu, 26 Nov 2026 15:40:50 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2022_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 103.161178,
+   "last_modified": "Thu, 26 Nov 2026 15:40:56 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2023_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 100.880103,
+   "last_modified": "Thu, 26 Nov 2026 15:41:02 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2023_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 102.587377,
+   "last_modified": "Thu, 26 Nov 2026 15:41:07 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2024_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 101.399174,
+   "last_modified": "Thu, 26 Nov 2026 15:41:13 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2024_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 102.557967,
+   "last_modified": "Thu, 26 Nov 2026 15:41:20 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2025_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 101.202449,
+   "last_modified": "Thu, 26 Nov 2026 15:41:26 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2025_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 104.382552,
+   "last_modified": "Thu, 26 Nov 2026 15:41:32 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2026_Jan_Jun.csv",
+   "kind": "INTERCHANGE",
+   "MB": 102.23099,
+   "last_modified": "Thu, 26 Nov 2026 15:41:39 GMT"
+  },
+  {
+   "file": "EIA930_INTERCHANGE_2026_Jul_Dec.csv",
+   "kind": "INTERCHANGE",
+   "MB": 83.274729,
+   "last_modified": "Thu, 26 Nov 2026 15:41:45 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2018_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.026848,
+   "last_modified": "Thu, 26 Nov 2026 15:40:08 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2019_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 25.83098,
+   "last_modified": "Thu, 26 Nov 2026 15:40:14 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2019_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.400645,
+   "last_modified": "Thu, 26 Nov 2026 15:40:20 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2020_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 26.087091,
+   "last_modified": "Thu, 26 Nov 2026 15:40:26 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2020_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.396851,
+   "last_modified": "Thu, 26 Nov 2026 15:40:32 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2021_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 25.946141,
+   "last_modified": "Thu, 26 Nov 2026 15:40:38 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2021_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.387558,
+   "last_modified": "Thu, 26 Nov 2026 15:40:44 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2022_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 25.944937,
+   "last_modified": "Thu, 26 Nov 2026 15:40:50 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2022_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.400173,
+   "last_modified": "Thu, 26 Nov 2026 15:40:56 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2023_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 25.950536,
+   "last_modified": "Thu, 26 Nov 2026 15:41:02 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2023_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.403762,
+   "last_modified": "Thu, 26 Nov 2026 15:41:08 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2024_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 26.103351,
+   "last_modified": "Thu, 26 Nov 2026 15:41:14 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2024_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.409065,
+   "last_modified": "Thu, 26 Nov 2026 15:41:20 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2025_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 25.965562,
+   "last_modified": "Thu, 26 Nov 2026 15:41:26 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2025_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 26.410062,
+   "last_modified": "Thu, 26 Nov 2026 15:41:33 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2026_Jan_Jun.csv",
+   "kind": "SUBREGION",
+   "MB": 26.892162,
+   "last_modified": "Thu, 26 Nov 2026 15:41:39 GMT"
+  },
+  {
+   "file": "EIA930_SUBREGION_2026_Jul_Dec.csv",
+   "kind": "SUBREGION",
+   "MB": 22.771028,
+   "last_modified": "Thu, 26 Nov 2026 15:41:45 GMT"
+  }
+ ],
+ "total_MB": {
+  "BALANCE": 883.52744,
+  "INTERCHANGE": 2388.8469090000003,
+  "SUBREGION": 442.32675199999994
+ }
+}
